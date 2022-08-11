@@ -3,7 +3,7 @@ package in.parinitit;
 public class Demo {
 	
 	public void m1() {
-		// Logic
+		// Logic 1
 		
 		// Logic 2
 	}
