@@ -10,6 +10,11 @@ public class App
     {
         System.out.println( "Hello Universe!" );
         System.out.println( "Hello World!" );
-		System.out.println( "Hello World!" );
+				System.out.println( "Hello World!" );
     }
+	
+	// bug 121
+	public a1() {
+		System.out.println( "Hello World!" );
+	}
 }
